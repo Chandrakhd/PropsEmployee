@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PropsEmployee/static/css/main.5d064730.css",
+    "main.js": "/PropsEmployee/static/js/main.06de1848.js",
+    "index.html": "/PropsEmployee/index.html",
+    "main.5d064730.css.map": "/PropsEmployee/static/css/main.5d064730.css.map",
+    "main.06de1848.js.map": "/PropsEmployee/static/js/main.06de1848.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d064730.css",
+    "static/js/main.06de1848.js"
+  ]
+}
